@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cursive-excludes-some-modules-after-importing-leiningen-settings.iml" filepath="$PROJECT_DIR$/cursive-excludes-some-modules-after-importing-leiningen-settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-a/module-a.iml" filepath="$PROJECT_DIR$/module-a/module-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-b/module-b.iml" filepath="$PROJECT_DIR$/module-b/module-b.iml" />
+    </modules>
+  </component>
+</project>
